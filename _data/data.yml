@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Andrea Zammit
-    tagline: Neurological 
+    tagline: Assistant Professor 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    github: sharu725
+    github: andreazammit
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -28,17 +28,11 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Maltes
+        level: Native
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Reading
         link:
 
       - item: Cooking
@@ -50,8 +44,6 @@ career-profile:
      
      I am an Assistant Professor in the Department of Neurology at Albert Einstein College of Medicine. I received my B.Psy (hons.) from the University of Malta, and my MSc. in Human Cognitive Neuropsychology and Ph.D. in Psychology with emphasis on Cognitive Aging and Cognitive Epidemiology from the University of Edinburgh, Scotland. Recently, I was awarded a NIH-K01 Mentored Research Career Development Award from the National Institute on Aging to identify and characterize preclinical profiles of Alzheimer’s disease using latent variable modeling techniques. My areas of research include individual differences in cognitive aging and cognitive epidemiology. I use statistical modeling to identify cognitive and non-cognitive (e.g. physiological, behavioral) symptom-profiles and trajectories in aging and dementia. I also study risk (e.g. vascular disease) and protective (e.g. educational attainment) factors of Alzheimer’s disease and related disorders across various subpopulations of individuals.I study individual differences in cognitive aging and cognitive epidemiology. 
      
-     My research aims are to identify subgroups at risk of nonnormative cognitive decline by characterizing preclinical profiles of Alzheimer’s dementia and related disorders. I am interested in how some subgroups are different from other subgroups in cognitive and non-cognitive (e.g. behavioral  affective, physiological) measures , and how life-course factors that include childhood socioeconomic status, build-up of cognitive reserve (education, occupation), and vascular risk factors affect these subgroups
-    
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -170,28 +162,6 @@ publications:
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
