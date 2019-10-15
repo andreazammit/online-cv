@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Andrea Zammit
+    tagline: Neurological 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,15 +46,12 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
+    summary: 
+     
+     I am an Assistant Professor in the Department of Neurology at Albert Einstein College of Medicine. I received my B.Psy (hons.) from the University of Malta, and my MSc. in Human Cognitive Neuropsychology and Ph.D. in Psychology with emphasis on Cognitive Aging and Cognitive Epidemiology from the University of Edinburgh, Scotland. Recently, I was awarded a NIH-K01 Mentored Research Career Development Award from the National Institute on Aging to identify and characterize preclinical profiles of Alzheimer’s disease using latent variable modeling techniques. My areas of research include individual differences in cognitive aging and cognitive epidemiology. I use statistical modeling to identify cognitive and non-cognitive (e.g. physiological, behavioral) symptom-profiles and trajectories in aging and dementia. I also study risk (e.g. vascular disease) and protective (e.g. educational attainment) factors of Alzheimer’s disease and related disorders across various subpopulations of individuals.I study individual differences in cognitive aging and cognitive epidemiology. 
+     
+     My research aims are to identify subgroups at risk of nonnormative cognitive decline by characterizing preclinical profiles of Alzheimer’s dementia and related disorders. I am interested in how some subgroups are different from other subgroups in cognitive and non-cognitive (e.g. behavioral  affective, physiological) measures , and how life-course factors that include childhood socioeconomic status, build-up of cognitive reserve (education, occupation), and vascular risk factors affect these subgroups
+    
 education:
     - degree: MSc in Computer Science
       university: University of London
